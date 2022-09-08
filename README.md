@@ -27,6 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Pagina com cartas dos 150 Pokemons usando um API.
 
+Aula do canal [Roger Melo](https://www.youtube.com/watch?v=Uptu3NrBFBM)
+
 ## 🚀 Como Rodar
 
 - Clone o projeto.
