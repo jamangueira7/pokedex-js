@@ -8,14 +8,11 @@
 <br>
 
 <p align="center">
-  <img alt="game" src=".github/game.PNG" width="650px" height="450px">
+  <img alt="game" src=".github/image.PNG">
 </p>
 
-<p align="center">
-  <img alt="game" src=".github/game2.PNG" width="650px" height="450px">
-</p>
 
-## Jogo Pong
+## Pokedex JS
 
 ## 🚀 Tecnologias
 
@@ -28,8 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Jogo Pong. Quem fizer 5 pontos primeiros ganha o jogo.
-
+Pagina com cartas dos 150 Pokemons usando um API.
 
 ## 🚀 Como Rodar
 
